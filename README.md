@@ -1,4 +1,4 @@
-# Local First
+# Introduction
 
 This is text in my README.
 
@@ -12,4 +12,4 @@ Here is a new line.
 
 Here is a great idea. This is someone else working at the same time and commiting the changes.
 
-This is the deviations branch. Say I am working out a new method. 
+I hope now it looks much better.
